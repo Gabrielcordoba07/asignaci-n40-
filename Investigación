@@ -1,1 +1,24 @@
+Mencione al menos 4 ventajas de adoptar el patrón MVC en su desarrollo.
 
+Ventajas y desventajas del uso del patrón
+Se tienen muchas ventajas como:
+
+La implementación se realiza de forma modular.
+
+Sus vistas muestran información actualizada siempre.
+El programador no debe preocuparse de solicitar que las vistas se actualicen, ya que este proceso es realizado automáticamente por el modelo de la aplicación.
+
+Cualquier modificación que afecte al dominio, como aumentar métodos o datos contenidos, implica una modificación sólo en el modelo y las interfaces del mismo con las vistas, no todo el mecanismo de comunicación y de actualización entre modelos.
+
+Las modificaciones a las vistas no afectan al modelo de dominio, simplemente se modifica la representación de la información, no su tratamiento.
+
+
+4 Beneficios de implementar el uso del diagrama de clases en un proceso de desarrollo.
+
+Ilustrar modelos de datos para sistemas de información, sin importar qué tan simples o complejos sean.
+
+Comprender mejor la visión general de los esquemas de una aplicación.
+
+Expresar visualmente cualesquier necesidades específicas de un sistema y divulgar esa información en toda la empresa.
+
+Crear diagramas detallados que resalten cualquier código específico que será necesario programar e implementar en la estructura descrita.
